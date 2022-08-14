@@ -1,0 +1,41 @@
+
+.center{
+    margin-top: 100px;
+}
+.googleImage{
+    
+  margin-left: 39%; 
+}
+.Search{
+    background-color: #EEEEEE;
+    height: 80px;  
+}
+p{
+    margin: 0px;
+    padding: 0px;
+    margin-left: 44%;
+
+}
+
+.SearchText{
+    width: 311px;
+    height: 14px;
+    margin-top: 0px;
+    padding-top: opx;
+    margin-left: 40%;
+
+}
+.SubmitButton1{
+    margin-left: 43%;
+}
+.SubmitButton2{
+    width: 110.42;
+   
+}
+.par{
+    margin-left: 44%;
+}
+
+.container-bot{
+    margin-top: 100px;
+}
